@@ -18,15 +18,15 @@ kp enter = to restart game if you have life remaining OR exit game if you don't 
     - Venis Prajapati
     <a href="https://www.linkedin.com/in/venis-prajapati-a12b1019b">LinkedIn</a>
 
-## Screen-Shots
+## Screen-Shots of game
 * game-play
 
-    <img src="game-2.png">
+    ![](game-1.png)
 
 * Game-over
 
-    <img src="game-over-1.png">
+    ![](game-over-1.png)
 
 * Exit-game
 
-    <img src="game-over-2.png">
+    ![](game-over-2.png)

@@ -21,7 +21,7 @@ kp enter = to restart game if you have life remaining OR exit game if you don't 
 ## Screen-Shots of game
 * game-play
 
-    ![](https://github.com/venisprajapati/space-ship/blob/master/game-1.PNG?raw=true)
+    ![](https://github.com/venisprajapati/space-ship/blob/master/game-2.PNG?raw=true)
 
 * Game-over
 

@@ -152,7 +152,7 @@ def isCollision(enemyX, enemyY, bulletX, bulletY):
 
 count = 0
 
-game_life = 2
+game_life = 3
 
 # pass is null statement,It complies nothing (happens nothing) and used to The pass statement is useful when you don’t
 # write the implementation of a function but you want to implement it in the future.
